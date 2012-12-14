@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADMINS	.\settings.py	/^ADMINS = ($/;"	v
+DATABASES	.\settings.py	/^DATABASES = {$/;"	v
+DEBUG	.\settings.py	/^DEBUG = True$/;"	v
+Default	.\urls.py	/^from css_tester.views import Default$/;"	i
+INSTALLED_APPS	.\settings.py	/^INSTALLED_APPS = ($/;"	v
+LANGUAGE_CODE	.\settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	v
+LOGGING	.\settings.py	/^LOGGING = {$/;"	v
+MANAGERS	.\settings.py	/^MANAGERS = ADMINS$/;"	v
+MEDIA_PATH	.\settings.py	/^MEDIA_PATH = '.\/templates'$/;"	v
+MEDIA_ROOT	.\settings.py	/^MEDIA_ROOT = ''$/;"	v
+MEDIA_URL	.\settings.py	/^MEDIA_URL = ''$/;"	v
+MIDDLEWARE_CLASSES	.\settings.py	/^MIDDLEWARE_CLASSES = ($/;"	v
+PROJECT_PATH	.\settings.py	/^PROJECT_PATH = os.path.dirname(globals()["__file__"])$/;"	v
+ROOT_URLCONF	.\settings.py	/^ROOT_URLCONF = 'test_css.urls'$/;"	v
+SECRET_KEY	.\settings.py	/^SECRET_KEY = 'y@3!5ma7o$houtc#xe6m2#5qaqx^o7_!_ean*^-zeyu_-y%-dv'$/;"	v
+SITE_ID	.\settings.py	/^SITE_ID = 1$/;"	v
+STATICFILES_DIRS	.\settings.py	/^STATICFILES_DIRS = ($/;"	v
+STATICFILES_FINDERS	.\settings.py	/^STATICFILES_FINDERS = ($/;"	v
+STATIC_ROOT	.\settings.py	/^STATIC_ROOT = ''$/;"	v
+STATIC_URL	.\settings.py	/^STATIC_URL = '\/static\/'$/;"	v
+TEMPLATE_DEBUG	.\settings.py	/^TEMPLATE_DEBUG = DEBUG$/;"	v
+TEMPLATE_DIRS	.\settings.py	/^TEMPLATE_DIRS = ($/;"	v
+TEMPLATE_LOADERS	.\settings.py	/^TEMPLATE_LOADERS = ($/;"	v
+TIME_ZONE	.\settings.py	/^TIME_ZONE = 'America\/Chicago'$/;"	v
+USE_I18N	.\settings.py	/^USE_I18N = True$/;"	v
+USE_L10N	.\settings.py	/^USE_L10N = True$/;"	v
+USE_TZ	.\settings.py	/^USE_TZ = True$/;"	v
+WSGI_APPLICATION	.\settings.py	/^WSGI_APPLICATION = 'test_css.wsgi.application'$/;"	v
+application	.\wsgi.py	/^application = get_wsgi_application()$/;"	v
+get_wsgi_application	.\wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	i
+include	.\urls.py	/^from django.conf.urls import patterns, include, url$/;"	i
+os	.\settings.py	/^import os$/;"	i
+os	.\wsgi.py	/^import os$/;"	i
+patterns	.\urls.py	/^from django.conf.urls import patterns, include, url$/;"	i
+settings	.\urls.py	/^import settings$/;"	i
+url	.\urls.py	/^from django.conf.urls import patterns, include, url$/;"	i
+urlpatterns	.\urls.py	/^urlpatterns = patterns('',$/;"	v

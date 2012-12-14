@@ -1,0 +1,14 @@
+﻿<html>
+	<head>
+		<title>CSS TESTER</title>
+	</head>
+	<body>
+		<p>{%include 'super-header.html'%}</p>
+		<form action="" method="POST">{% csrf_token %} 
+			<br>
+			<p>{{testPrint}}</p>
+			<input type="submit" value="提交"/> 
+		</form> 
+		<p>{%include 'super-bottom.html'%}</p>
+	</body>
+</html>
